@@ -18,7 +18,7 @@ This project uses mock data across five key entities:
 
 ---
 
-![ERD diagram](ERD diagram.png)
+![ERD diagram](https://github.com/TilakLaddha2005/Zomato-Advanced-SQL-Data-Analysis-Project/blob/main/ERD%20diagram.png)
 
 ---
 ## Data Handling & NULL Cleanup
