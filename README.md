@@ -18,6 +18,9 @@ This project uses mock data across five key entities:
 
 ---
 
+![ERD diagram](ERD diagram.png)
+
+---
 ## Data Handling & NULL Cleanup
 
 ```sql
