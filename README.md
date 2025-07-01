@@ -353,6 +353,6 @@ GROUP BY cus.customer_id, cus.name;
 ### Author
 #### Tilak Laddha
 #### Email: tilakladdhaofficial2005@gmail.com
-#### LinkedIn: https://github.com/TilakLaddha2005/Zomato-Advanced-SQL-Data-Analysis-Project
+#### LinkedIn: https://www.linkedin.com/in/tilak-laddha-776b68294/
 
 ---
